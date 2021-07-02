@@ -1,8 +1,15 @@
-# README
+# Companies House Archive Merge
 
-Here I will try to merge all registers from Companies House based on those available in the [archive](https://webarchive.nationalarchives.gov.uk/*/http://download.companieshouse.gov.uk/en_output.html). 
+Here I will merge all registers from Companies House based on the data available in the [archive](https://webarchive.nationalarchives.gov.uk/*/http://download.companieshouse.gov.uk/en_output.html). 
 
-# Which instances **cannot** be retrieved?
+## Necessity of this project
+Why do we need it? At the moment, each month CH releases a register of **live** firms. The output of this repository will include both **live** and **dissolved** firms. By this way, one can know a more precise number of daily registrations.
+
+### Data imperfection
+Further back there are many gaps, i.e. CH did not release every month the register or not all registers have been saved in the archive. Next section shows which registers have broken links, and hence could not be included. 
+
+## Broken links
+Which instances **cannot** be retrieved?
 - March 2015
 - October 2015
 - October 2016
@@ -13,6 +20,5 @@ Here I will try to merge all registers from Companies House based on those avail
 - May 2020
 - August 2020
 
-# Project ID
-Yannis Galanakis; <i.galanakis@kent.ac.uk>
-July 2021 - present
+# Feedback
+Contact: Yannis Galanakis; <i.galanakis@kent.ac.uk>

@@ -21,4 +21,4 @@ Which instances **cannot** be retrieved?
 - August 2020
 
 # Feedback
-Contact: Yannis Galanakis; <i.galanakis@kent.ac.uk>
+Contact: [Yannis Galanakis](www.yannisgalanakis.com); <i.galanakis@kent.ac.uk>

@@ -3,7 +3,7 @@
 Here I will merge all registers from Companies House based on the data available in the [archive](https://webarchive.nationalarchives.gov.uk/*/http://download.companieshouse.gov.uk/en_output.html). 
 
 ## Necessity of this project
-Why do we need it? At the moment, each month CH releases a register of **live** firms. The output of this repository will include both **live** and **dissolved** firms. By this way, one can know a more precise number of daily registrations.
+Why do we need it? At the moment, each month CH releases a register of *live* firms. The output of this repository will include both *live and *dissolved* firms. By this way, one can know a more precise number of daily registrations.
 
 ### Data imperfection
 Further back there are many gaps, i.e. CH did not release every month the register or not all registers have been saved in the archive. Next section shows which registers have broken links, and hence could not be included. 

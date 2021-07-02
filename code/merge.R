@@ -1,7 +1,7 @@
 ###
-# Merge registers of CH
+# Merge registers of CH archive registers
 # Y. Galanakis; i.galanakis@kent.ac.uk
-# Outputs: attempt of to merge the latest 2 available registers
+# Outputs: attempt of to merge the latest registers until June 2021
 ###
 
 # Libraries ----
